@@ -65,12 +65,16 @@
 <img src="https://user-images.githubusercontent.com/69857895/91700009-5d8bec80-eb9f-11ea-8b52-65e30defeefb.png">
 <img src="https://user-images.githubusercontent.com/69857895/91700030-67155480-eb9f-11ea-8261-de9c2888b602.png">
 
-
-
-<h5 align="center">Giao Diện Khi Admin Đăng Nhập Vào</h5>
+<h4>Giao Diện Khi Admin Đăng Nhập Vào</h4>
 <img src="https://user-images.githubusercontent.com/69857895/91694307-a0959200-eb96-11ea-9753-43b721fb216d.png">
-<p>Chi tiết đơn hàng: người dùng có thể xem chi tiết đơn hàng của mình và có thể hủy đơn hàng khi đang ở trạng thái đang xử lý</p>
+<h5 align="center">THêm Người Quản Lý</h5>
+<img src="https://user-images.githubusercontent.com/69857895/91700775-92e50a00-eba0-11ea-876f-1f0a884decbb.png">
+<h5 align="center">Liệt Kê</h5>
+<img src="https://user-images.githubusercontent.com/69857895/91700809-9d9f9f00-eba0-11ea-9409-b8aa172562f5.png">
+<p>Cho phép phân quyền user và author</p>
 
+
+<h1 align="center">The End</h1>
 
 
 
